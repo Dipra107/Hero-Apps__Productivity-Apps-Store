@@ -1,0 +1,725 @@
+[
+    {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Facebook_Messenger_logo_2020.svg/1200px-Facebook_Messenger_logo_2020.svg.png",
+    "title": "Messenger",
+    "companyName": "Meta Platforms, Inc.",
+    "id": 1,
+    "description": "Messenger is a free instant messaging app that allows users to send text messages, voice messages, videos, images, and make voice and video calls. It also supports group chats, the ability to send location information, and share multimedia files like photos, videos, and voice memos. Messenger enables real-time communication with your friends and family, no matter where they are located. The app also features integrated access to games, chatbots, and other interactive features that make your conversations more fun. Messenger’s user-friendly interface allows you to easily organize conversations, mute notifications, and manage your messages with ease. Integrated with Facebook, it also allows you to directly message people on Facebook without leaving the app.",
+    "size": 120.4,
+    "reviews": 45000,
+    "ratingAvg": 4.3,
+    "downloads": "80B",
+    "ratings": [
+      { "name": "1 star", "count": 2500 },
+      { "name": "2 star", "count": 3200 },
+      { "name": "3 star", "count": 6000 },
+      { "name": "4 star", "count": 10000 },
+      { "name": "5 star", "count": 15000 }
+    ]
+  },
+  {
+    "image": "https://img.freepik.com/premium-vector/round-facebook-logo-isolated-white-background_469489-897.jpg?semt=ais_hybrid&w=740&q=80",
+    "title": "Facebook",
+    "companyName": "Meta Platforms, Inc.",
+    "id": 2,
+    "description": "Stay connected with friends, family, and communities, share updates, photos, and videos, and discover what's happening in the world. Facebook is one of the largest social media platforms, enabling users to create and share content, join communities, and interact with friends and businesses. With features like the News Feed, users can see updates from their friends, join groups of similar interests, and discover events nearby. Facebook also allows you to set up personal pages, create posts, comment on and like posts, and chat with friends through Messenger. Businesses can create Pages to engage with customers, post advertisements, and promote services. Whether for personal or professional networking, Facebook continues to evolve and offer new ways to connect with the world.",
+    "size": 250.5,
+    "reviews": 125000,
+    "ratingAvg": 4.2,
+    "downloads": "100B",
+    "ratings": [
+      { "name": "1 star", "count": 8500 },
+      { "name": "2 star", "count": 12500 },
+      { "name": "3 star", "count": 25000 },
+      { "name": "4 star", "count": 35000 },
+      { "name": "5 star", "count": 42500 }
+    ]
+  },
+  {
+    "image": "https://img.freepik.com/premium-vector/circle-whatsapp-logotype-icon-social-media-app-network-application-popular-editorial-brand-vector-illustration_913857-391.jpg?semt=ais_hybrid&w=740&q=80",
+    "title": "WhatsApp Messenger",
+    "companyName": "WhatsApp Inc.",
+    "id": 3,
+    "description": "Instant messaging app for text, voice, and video calls. Share files and stay connected globally with WhatsApp. WhatsApp allows users to send text messages, make voice and video calls, and share multimedia files, such as images, audio, and videos. It supports both individual and group conversations, with the ability to send messages to multiple contacts simultaneously. WhatsApp uses end-to-end encryption for all communications, ensuring that only you and the recipient can read the messages. It also features status updates, allowing you to share photos, videos, and text with your contacts for 24 hours. WhatsApp can also be used for business purposes, allowing companies to interact with customers through WhatsApp Business accounts.",
+    "size": 187.4,
+    "reviews": 45200,
+    "ratingAvg": 4.4,
+    "downloads": "55B",
+    "ratings": [
+      { "name": "1 star", "count": 3100 },
+      { "name": "2 star", "count": 3500 },
+      { "name": "3 star", "count": 6700 },
+      { "name": "4 star", "count": 12600 },
+      { "name": "5 star", "count": 19900 }
+    ]
+  },
+  {
+    "image": "https://img.freepik.com/premium-vector/instagram-icon_768467-672.jpg?semt=ais_hybrid&w=740&q=80",
+    "title": "Instagram",
+    "companyName": "Meta Platforms, Inc.",
+    "id": 4,
+    "description": "Share moments, photos, and videos with friends. Discover new content and explore the world through Instagram. Instagram is a visual platform that allows users to share photos and videos, as well as follow accounts to view their content. Instagram’s Stories feature lets you post photos and videos that disappear after 24 hours, and its Reels feature offers short-form video content similar to TikTok. With hashtags, location tagging, and user tagging, Instagram helps you discover new content based on your interests. Instagram also offers in-app shopping, allowing businesses to sell products directly through posts and advertisements. It is widely used by influencers, businesses, and creatives for personal branding, marketing, and content creation.",
+    "size": 167.8,
+    "reviews": 38200,
+    "ratingAvg": 4.2,
+    "downloads": "50B",
+    "ratings": [
+      { "name": "1 star", "count": 3300 },
+      { "name": "2 star", "count": 4600 },
+      { "name": "3 star", "count": 7800 },
+      { "name": "4 star", "count": 11600 },
+      { "name": "5 star", "count": 11300 }
+    ]
+  },
+  {
+    "image": "https://cdn4.iconfinder.com/data/icons/social-media-flat-7/64/Social-media_Tiktok-512.png",
+    "title": "TikTok",
+    "companyName": "TikTok Ltd.",
+    "id": 5,
+    "description": "The leading short-form video platform that brings entertainment, creativity, and trends to millions of users worldwide. TikTok has revolutionized the social media landscape by offering a platform for users to create, share, and discover short-form videos. With a focus on creativity and entertainment, TikTok allows users to upload videos with a wide range of editing tools, effects, filters, and soundtracks. The app also features challenges, trends, and viral content, which keeps users engaged and entertained. TikTok has become a hub for influencers, brands, and creators looking to reach a global audience. With its personalized algorithm, TikTok helps users discover new content tailored to their interests, making it one of the most popular apps worldwide.",
+    "size": 278.9,
+    "reviews": 41500,
+    "ratingAvg": 4.0,
+    "downloads": "20B",
+    "ratings": [
+      { "name": "1 star", "count": 4900 },
+      { "name": "2 star", "count": 5300 },
+      { "name": "3 star", "count": 8800 },
+      { "name": "4 star", "count": 10850 },
+      { "name": "5 star", "count": 12000 }
+    ]
+  },
+  {
+    "image": "https://img.freepik.com/premium-vector/red-youtube-logo-social-media-logo_197792-1803.jpg?semt=ais_hybrid&w=740&q=80",
+    "title": "YouTube",
+    "companyName": "Google LLC",
+    "id": 6,
+    "description": "YouTube is a video sharing platform that allows users to upload, view, and share videos, as well as subscribe to channels and create playlists. It is the largest video platform in the world, with millions of videos uploaded every day. YouTube offers a wide range of content, from music videos and vlogs to educational content and documentaries. It supports live streaming, allowing users to broadcast in real-time, and features a robust recommendation system that helps users discover videos based on their interests. YouTube is also a major platform for content creators and influencers, who use it to share their work and build audiences. Additionally, YouTube offers YouTube Premium, an ad-free subscription service with extra features like offline video downloads.",
+    "size": 100.1,
+    "reviews": 100000,
+    "ratingAvg": 4.6,
+    "downloads": "100B",
+    "ratings": [
+      { "name": "1 star", "count": 6000 },
+      { "name": "2 star", "count": 7000 },
+      { "name": "3 star", "count": 12000 },
+      { "name": "4 star", "count": 30000 },
+      { "name": "5 star", "count": 40000 }
+    ]
+  },
+ {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1051px-Adobe_Photoshop_CC_icon.svg.png",
+    "title": "Adobe Photoshop Express",
+    "companyName": "Adobe Inc.",
+    "id": 7,
+    "description": "Adobe Photoshop Express is an intuitive and powerful photo editing app designed for quick, creative transformations with pro-level tools. Whether you’re a beginner or an experienced designer, this app provides a range of easy-to-use features for editing photos, enhancing images, and creating artwork. Users can crop, straighten, rotate, and adjust the colors of their photos. Photoshop Express also provides an array of filters, effects, and customizable features to make editing fun. With tools like noise reduction, blemish removal, and collage making, it’s a great tool for professionals and amateurs alike to edit images and bring their creative ideas to life on the go.",
+    "size": 245.7,
+    "reviews": 12500,
+    "ratingAvg": 4.3,
+    "downloads": "50M",
+    "ratings": [
+      { "name": "1 star", "count": 900 },
+      { "name": "2 star", "count": 1300 },
+      { "name": "3 star", "count": 2700 },
+      { "name": "4 star", "count": 4400 },
+      { "name": "5 star", "count": 3700 }
+    ]
+  },
+  {
+    "image": "https://static.vecteezy.com/system/resources/previews/018/930/693/non_2x/spotify-app-logo-spotify-icon-transparent-free-png.png",
+    "title": "Spotify: Music and Podcasts",
+    "companyName": "Spotify AB",
+    "id": 8,
+    "description": "Spotify is the ultimate music streaming app that gives you access to millions of songs, albums, and podcasts. Create personalized playlists, explore curated playlists based on your listening habits, and discover new artists. Whether you’re into classical music, hip hop, pop, or niche genres, Spotify has a variety of music to cater to every taste. In addition to music, Spotify allows users to explore a wide range of podcasts, from comedy and storytelling to news and education. With a free version and the option for Spotify Premium, which offers offline listening and ad-free music, Spotify provides a comprehensive listening experience.",
+    "size": 312.5,
+    "reviews": 21500,
+    "ratingAvg": 4.2,
+    "downloads": "10M",
+    "ratings": [
+      { "name": "1 star", "count": 2000 },
+      { "name": "2 star", "count": 2800 },
+      { "name": "3 star", "count": 4300 },
+      { "name": "4 star", "count": 6500 },
+      { "name": "5 star", "count": 6000 }
+    ]
+  },
+  {
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9U09LH-7uGYGX95RxlzIwKSkT4e-3YiCLUA&s",
+    "title": "Duolingo - Language Lessons",
+    "companyName": "Duolingo",
+    "id": 9,
+    "description": "Duolingo makes learning a new language fun and easy with interactive lessons and bite-sized exercises. This language-learning app uses a gamified approach to teaching, rewarding users with points, badges, and progress trackers as they complete lessons. Duolingo covers a wide range of languages, including Spanish, French, German, Japanese, and many more. The app is designed to be engaging, with features like quizzes, challenges, and daily goals that keep users motivated. Whether you’re learning a new language for travel, work, or personal growth, Duolingo provides a practical and enjoyable way to build language skills over time.",
+    "size": 98.3,
+    "reviews": 18300,
+    "ratingAvg": 4.1,
+    "downloads": "150K",
+    "ratings": [
+      { "name": "1 star", "count": 1700 },
+      { "name": "2 star", "count": 2400 },
+      { "name": "3 star", "count": 3800 },
+      { "name": "4 star", "count": 5100 },
+      { "name": "5 star", "count": 5900 }
+    ]
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Netflix_icon.svg/2048px-Netflix_icon.svg.png",
+    "title": "Netflix",
+    "companyName": "Netflix, Inc.",
+    "id": 10,
+    "description": "Netflix offers endless TV shows, movies, and documentaries tailored to your tastes. Enjoy exclusive Netflix Originals, top-rated films, binge-worthy series, and popular documentaries that span across various genres. Netflix uses smart recommendations to help you discover new content based on your viewing habits. With its easy-to-use interface, you can seamlessly stream content in HD and 4K quality, download your favorite shows for offline viewing, and even create multiple user profiles for personalized recommendations. Netflix is available on almost all devices, including smartphones, smart TVs, and laptops, offering entertainment for the whole family.",
+    "size": 203.1,
+    "reviews": 32800,
+    "ratingAvg": 4.0,
+    "downloads": "99M",
+    "ratings": [
+      { "name": "1 star", "count": 4000 },
+      { "name": "2 star", "count": 4300 },
+      { "name": "3 star", "count": 7100 },
+      { "name": "4 star", "count": 9700 },
+      { "name": "5 star", "count": 7800 }
+    ]
+  },
+  {
+    "image": "https://img.freepik.com/premium-vector/twitter-new-x-logo-design-vector_1340851-70.jpg?semt=ais_hybrid&w=740&q=80",
+    "title": "X",
+    "companyName": "X.AI Corp.",
+    "id": 11,
+    "description": "X is a social media platform that brings entertainment, creativity, and trends to millions of users worldwide. It allows users to share short-form content, connect with others, and engage in real-time conversations. X is a hub for trends, viral moments, and fast-paced news, offering features like tweets, hashtags, and live events. Whether you're looking to follow your favorite influencers, engage in trending topics, or connect with communities, X offers a space for self-expression, social interaction, and cultural influence. With a large user base, X continues to innovate the way people share and interact with content online.",
+    "size": 278.9,
+    "reviews": 41500,
+    "ratingAvg": 4.0,
+    "downloads": "53M",
+    "ratings": [
+      { "name": "1 star", "count": 4900 },
+      { "name": "2 star", "count": 5300 },
+      { "name": "3 star", "count": 8800 },
+      { "name": "4 star", "count": 10850 },
+      { "name": "5 star", "count": 12000 }
+    ]
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/08/Pinterest-logo.png",
+    "title": "Pinterest",
+    "companyName": "Pinterest",
+    "id": 12,
+    "description": "Pinterest is a visual discovery engine that allows you to explore a world of creativity with personalized boards for style, DIY ideas, recipes, and more. Whether you're looking for fashion inspiration, home décor ideas, or planning your next travel adventure, Pinterest is the place to gather all your ideas. Users can search, save, and share images and videos, while creating customized boards to keep track of their favorite content. With features like Pinterest Lens, you can even search for ideas using images, making it an ideal tool for creativity and inspiration.",
+    "size": 154.7,
+    "reviews": 11500,
+    "ratingAvg": 4.4,
+    "downloads": "55M",
+    "ratings": [
+      { "name": "1 star", "count": 700 },
+      { "name": "2 star", "count": 1000 },
+      { "name": "3 star", "count": 2200 },
+      { "name": "4 star", "count": 3500 },
+      { "name": "5 star", "count": 4100 }
+    ]
+  },
+  {
+    "image": "https://img.freepik.com/premium-vector/snapchat-icon-paper-cut-style-social-media-icons_505135-252.jpg?semt=ais_hybrid&w=740&q=80",
+    "title": "Snapchat",
+    "companyName": "Snap Inc.",
+    "id": 13,
+    "description": "Snapchat allows you to send disappearing photos, create fun stories, and explore trending filters. This app is a popular social media platform where users can share images and videos that disappear after being viewed. Snapchat also offers a variety of interactive features, including lenses and filters that allow users to enhance their photos and videos with animations and augmented reality effects. It is designed for real-time sharing and communication, making it ideal for casual, fun interactions with friends and followers. With additional features like Snap Map, Bitmoji, and Discover for browsing content from creators, Snapchat has become a leading platform for young, creative users.",
+    "size": 223.4,
+    "reviews": 30500,
+    "ratingAvg": 3.8,
+    "downloads": "18B",
+    "ratings": [
+      { "name": "1 star", "count": 4500 },
+      { "name": "2 star", "count": 6000 },
+      { "name": "3 star", "count": 8000 },
+      { "name": "4 star", "count": 6700 },
+      { "name": "5 star", "count": 5500 }
+    ]
+  },
+  {
+    "image": "https://img.freepik.com/premium-vector/telegram-icon_488108-1.jpg?semt=ais_hybrid&w=740&q=80",
+    "title": "Telegram",
+    "companyName": "Telegram FZ-LLC",
+    "id": 14,
+    "description": "Telegram is a fast, secure messaging platform with end-to-end encryption, cloud storage, and easy file sharing. It allows users to send text messages, voice messages, photos, videos, and documents, with the added benefit of being able to send large files with no restrictions on the size. Telegram's channels and groups allow for public and private communication on a large scale, making it ideal for businesses, communities, and social interactions. It also supports bot integration for automation, news, and entertainment purposes. Telegram places a strong emphasis on user privacy and data protection, with its encrypted messages ensuring secure communications.",
+    "size": 102.5,
+    "reviews": 8900,
+    "ratingAvg": 4.6,
+    "downloads": "10B",
+    "ratings": [
+      { "name": "1 star", "count": 400 },
+      { "name": "2 star", "count": 550 },
+      { "name": "3 star", "count": 1200 },
+      { "name": "4 star", "count": 2500 },
+      { "name": "5 star", "count": 4300 }
+    ]
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/ChatGPT-Logo.svg/2048px-ChatGPT-Logo.svg.png",
+    "title": "ChatGPT",
+    "companyName": "OpenAI",
+    "id": 15,
+    "description": "ChatGPT is an AI-powered chatbot that provides intelligent responses, assists with tasks, and engages in natural conversations. It is designed to understand and respond to human language in a conversational manner, making it ideal for answering questions, solving problems, generating creative writing, and providing information on a wide variety of topics. Whether you need help with coding, understanding scientific concepts, or just want to chat about everyday things, ChatGPT offers a friendly and knowledgeable assistant powered by advanced AI technology. It can be integrated into various applications to enhance user interaction through text-based communication.",
+    "size": 187.5,
+    "reviews": 23400,
+    "ratingAvg": 4.1,
+    "downloads": "90M",
+    "ratings": [
+      { "name": "1 star", "count": 2100 },
+      { "name": "2 star", "count": 3200 },
+      { "name": "3 star", "count": 4800 },
+      { "name": "4 star", "count": 6500 },
+      { "name": "5 star", "count": 6800 }
+    ]
+  },
+  {
+    "image": "https://mailmeteor.com/logos/assets/PNG/Microsoft_Office_Word_Logo_512px.png",
+    "title": "Microsoft Word",
+    "companyName": "Microsoft Corporation",
+    "id": 16,
+    "description": "Microsoft Word is a powerful word processing application used for creating, editing, and sharing documents. It is widely used in both professional and educational settings, offering a variety of tools to assist in writing, formatting, and organizing text. Word supports features such as spell check, grammar suggestions, text formatting, and table creation. It also allows for collaboration, with real-time editing and commenting features that make it easy to work on documents with others. Microsoft Word integrates seamlessly with OneDrive for cloud storage and supports compatibility with various file formats, ensuring that users can easily share and access documents from any device.",
+    "size": 324.7,
+    "reviews": 12800,
+    "ratingAvg": 4.3,
+    "downloads": "60M",
+    "ratings": [
+      { "name": "1 star", "count": 780 },
+      { "name": "2 star", "count": 1100 },
+      { "name": "3 star", "count": 2400 },
+      { "name": "4 star", "count": 3800 },
+      { "name": "5 star", "count": 4720 }
+    ]
+  },
+  {
+    "image": "https://i.pinimg.com/736x/74/6d/77/746d77ef9b49afd5ec2306d39592d01e.jpg",
+    "title": "Canva: Design & Video",
+    "companyName": "Canva",
+    "id": 17,
+    "description": "Canva is an intuitive design tool that allows users to create stunning graphics, presentations, and videos with ease. With its drag-and-drop functionality, users can design everything from social media posts and marketing materials to infographics and presentations, without requiring advanced graphic design skills. Canva offers a wide variety of templates, fonts, images, and illustrations, as well as the ability to upload your own content. Its user-friendly interface and collaboration features allow teams to work together on design projects in real-time. Canva also supports video editing, giving users the ability to create engaging video content with ease.",
+    "size": 156.2,
+    "reviews": 8900,
+    "ratingAvg": 4.7,
+    "downloads": "80M",
+    "ratings": [
+      { "name": "1 star", "count": 250 },
+      { "name": "2 star", "count": 380 },
+      { "name": "3 star", "count": 850 },
+      { "name": "4 star", "count": 2200 },
+      { "name": "5 star", "count": 5220 }
+    ]
+  },
+  {
+    "image": "https://futurestartup.com/wp-content/uploads/2020/06/Uber_Logo_Black-Use.jpg",
+    "title": "Uber",
+    "companyName": "Uber Technologies, Inc.",
+    "id": 18,
+    "description": "Uber is a popular ride-hailing service that allows you to request a ride, order food delivery, and more all in one app. It connects riders with drivers for quick, reliable transportation. Uber provides a seamless experience for both riders and drivers, offering real-time tracking, fare estimates, and cashless payments. In addition to rides, Uber Eats enables users to order food from local restaurants and have it delivered to their doorstep. The app also includes features like UberPool for carpooling, Uber for Business, and ride scheduling, making it a versatile tool for personal and professional use.",
+    "size": 187.5,
+    "reviews": 23400,
+    "ratingAvg": 4.1,
+    "downloads": "5B",
+    "ratings": [
+      { "name": "1 star", "count": 2100 },
+      { "name": "2 star", "count": 3200 },
+      { "name": "3 star", "count": 4800 },
+      { "name": "4 star", "count": 6500 },
+      { "name": "5 star", "count": 6800 }
+    ]
+  },
+ {
+    "image": "https://wp.logos-download.com/wp-content/uploads/2022/01/BKash_Logo_icon-700x662.png",
+    "title": "Bkash - Mobile Financial Service",
+    "companyName": "BRAC Bank Ltd.",
+    "id": 19,
+    "description": "Bkash is a mobile financial service that allows users to send and receive money, pay bills, and make purchases using their mobile phones. It has revolutionized the way people in Bangladesh access financial services by making transactions easier and more secure. Bkash enables users to transfer money to any mobile phone number, recharge their phones, and even pay utility bills like electricity, gas, and water bills directly from their phones. Additionally, Bkash allows for the withdrawal of cash from authorized agents or ATMs, providing a cashless alternative for day-to-day transactions. The app is a trusted tool for millions of people, offering convenient and accessible financial services for everyone, especially those without access to traditional banking systems.",
+    "size": 134.8,
+    "reviews": 7600,
+    "ratingAvg": 4.4,
+    "downloads": "90M",
+    "ratings": [
+      { "name": "1 star", "count": 420 },
+      { "name": "2 star", "count": 680 },
+      { "name": "3 star", "count": 1250 },
+      { "name": "4 star", "count": 2200 },
+      { "name": "5 star", "count": 3050 }
+    ]
+  },
+  {
+    "image": "https://cdn-1.webcatalog.io/catalog/foodpanda-bd/foodpanda-bd-icon.png?v=1757292370902",
+    "title": "Foodpanda - Food Delivery",
+    "companyName": "Foodpanda GmbH",
+    "id": 20,
+    "description": "Foodpanda is a food delivery service that allows users to order food from local restaurants and have it delivered quickly and easily to their doorstep. The app offers a wide variety of cuisines and restaurant choices, including fast food, fine dining, and local specialties. Users can browse restaurant menus, read reviews, and place orders with just a few taps. Foodpanda provides real-time order tracking, so users can follow their food delivery status. With easy payment options, including cash on delivery and online payment methods, Foodpanda ensures a seamless food ordering experience. In addition to food delivery, the app also offers grocery and essentials delivery, making it a one-stop service for all your delivery needs.",
+    "size": 76.3,
+    "reviews": 14200,
+    "ratingAvg": 4.2,
+    "downloads": "50M",
+    "ratings": [
+      { "name": "1 star", "count": 980 },
+      { "name": "2 star", "count": 1450 },
+      { "name": "3 star", "count": 2800 },
+      { "name": "4 star", "count": 4200 },
+      { "name": "5 star", "count": 4770 }
+    ]
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png",
+    "title": "Gmail - Email by Google",
+    "companyName": "Google LLC",
+    "id": 21,
+    "description": "Send and receive emails, manage your inbox, and access your Google services with Gmail. It's the most trusted email platform, offering features such as 15GB of free storage, strong security protocols like two-factor authentication, and seamless integration with Google’s suite of apps. Gmail’s advanced search feature helps you easily find specific emails or attachments, and its clean, minimalist interface makes organizing your inbox a breeze. With powerful spam filters, automatic categorization, and conversation threading, Gmail simplifies the email experience. Whether you’re using it for personal or business purposes, Gmail offers a reliable and secure communication tool, supporting video and voice calls via Google Meet as well.",
+    "size": 50.0,
+    "reviews": 150000,
+    "ratingAvg": 4.3,
+    "downloads": "10B",
+    "ratings": [
+      { "name": "1 star", "count": 5000 },
+      { "name": "2 star", "count": 8000 },
+      { "name": "3 star", "count": 15000 },
+      { "name": "4 star", "count": 50000 },
+      { "name": "5 star", "count": 67000 }
+    ]
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/8/87/Google_Chrome_icon_%282011%29.png",
+    "title": "Google Chrome",
+    "companyName": "Google LLC",
+    "id": 22,
+    "description": "Google Chrome is a fast, secure, and easy-to-use web browser that’s trusted by millions around the world. It's designed to be simple and efficient, providing an intuitive browsing experience. With features like Incognito mode for private browsing, synchronization across devices, and built-in security measures like phishing protection and malware blocking, Chrome ensures a safe online experience. The browser supports a wide range of extensions, from ad blockers to productivity tools, allowing for a highly customizable user experience. Its seamless integration with Google services and continuous updates ensure that you’re always using the latest and most secure version of the browser.",
+    "size": 250.0,
+    "reviews": 500000,
+    "ratingAvg": 4.6,
+    "downloads": "5B",
+    "ratings": [
+      { "name": "1 star", "count": 10000 },
+      { "name": "2 star", "count": 15000 },
+      { "name": "3 star", "count": 35000 },
+      { "name": "4 star", "count": 200000 },
+      { "name": "5 star", "count": 350000 }
+    ]
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Google_Maps_icon_%282020%29.svg/1428px-Google_Maps_icon_%282020%29.svg.png",
+    "title": "Google Maps",
+    "companyName": "Google LLC",
+    "id": 23,
+    "description": "Explore the world with Google Maps. Find directions, view live traffic, and discover new places nearby. It's the most trusted map service, offering detailed maps, real-time navigation, and local business information. Google Maps helps you get from point A to point B with ease, whether you're walking, driving, or using public transport. With features like Street View, users can explore areas in 360 degrees, and the app offers recommendations for restaurants, attractions, and other points of interest. It also provides real-time updates on traffic conditions, road closures, and accidents, making it the perfect companion for any journey.",
+    "size": 120.0,
+    "reviews": 300000,
+    "ratingAvg": 4.5,
+    "downloads": "10B",
+    "ratings": [
+      { "name": "1 star", "count": 7000 },
+      { "name": "2 star", "count": 10000 },
+      { "name": "3 star", "count": 25000 },
+      { "name": "4 star", "count": 80000 },
+      { "name": "5 star", "count": 150000 }
+    ]
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/11/Amazon_Prime_Video_logo.svg",
+    "title": "Amazon Prime Video",
+    "companyName": "Amazon.com, Inc.",
+    "id": 24,
+    "description": "Amazon Prime Video is a popular streaming service that offers a wide selection of movies, TV shows, and original content. Stream anytime, anywhere, with access to an extensive library of films, TV series, and exclusive Amazon Originals. Prime Video offers ad-free streaming, downloadable content for offline viewing, and personalized recommendations based on your viewing history. Whether you're into blockbuster movies, critically acclaimed series, or hidden gems, there’s something for everyone on Prime Video. With a subscription, you also get access to Prime Video Channels, allowing you to subscribe to third-party streaming services directly through the app.",
+    "size": 75.0,
+    "reviews": 200000,
+    "ratingAvg": 4.4,
+    "downloads": "500M",
+    "ratings": [
+      { "name": "1 star", "count": 12000 },
+      { "name": "2 star", "count": 18000 },
+      { "name": "3 star", "count": 35000 },
+      { "name": "4 star", "count": 70000 },
+      { "name": "5 star", "count": 100000 }
+    ]
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/960px-LinkedIn_logo_initials.png",
+    "title": "LinkedIn",
+    "companyName": "LinkedIn Corporation",
+    "id": 25,
+    "description": "LinkedIn is a business-oriented social networking site used to connect professionals, expand networks, and find job opportunities. With millions of users worldwide, LinkedIn allows you to showcase your professional background, build an online resume, and make connections with people in your industry. You can join groups, follow companies, and discover job listings, making it an invaluable resource for anyone looking to advance their career. LinkedIn also offers learning courses, endorsements, and recommendations, providing tools to improve your professional skills and build your reputation. Whether you're job hunting, networking, or simply staying connected with colleagues, LinkedIn is a must-have tool for professional growth.",
+    "size": 120.0,
+    "reviews": 300000,
+    "ratingAvg": 4.2,
+    "downloads": "500M",
+    "ratings": [
+      { "name": "1 star", "count": 10000 },
+      { "name": "2 star", "count": 20000 },
+      { "name": "3 star", "count": 50000 },
+      { "name": "4 star", "count": 100000 },
+      { "name": "5 star", "count": 150000 }
+    ]
+  },
+{
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Google_Drive_icon_%282020%29.svg/2295px-Google_Drive_icon_%282020%29.svg.png",
+    "title": "Google Drive",
+    "companyName": "Google LLC",
+    "id": 26,
+    "description": "Store files, photos, and documents securely and access them from any device with Google Drive. With 15 GB of free cloud storage, Google Drive allows you to store your important files and access them anytime, anywhere. It supports a variety of file types, including documents, spreadsheets, presentations, and multimedia files. You can easily organize your files into folders, share them with others, and collaborate in real-time using Google’s suite of productivity tools, including Google Docs, Sheets, and Slides. Google Drive also integrates seamlessly with other Google services like Gmail and Google Photos, making it a one-stop solution for managing and sharing your digital life. It’s a reliable and secure platform for both personal and professional use, with advanced security features such as two-factor authentication and encrypted file storage.",
+    "size": 70.0,
+    "reviews": 800000,
+    "ratingAvg": 4.5,
+    "downloads": "5B",
+    "ratings": [
+      { "name": "1 star", "count": 30000 },
+      { "name": "2 star", "count": 40000 },
+      { "name": "3 star", "count": 100000 },
+      { "name": "4 star", "count": 200000 },
+      { "name": "5 star", "count": 400000 }
+    ]
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Google_Photos_icon_%282020%29.svg/2048px-Google_Photos_icon_%282020%29.svg.png",
+    "title": "Google Photos",
+    "companyName": "Google LLC",
+    "id": 27,
+    "description": "Store, organize, and share your photos and videos. Google Photos gives you unlimited space for high-quality images and videos. With automatic backup, your photos and videos are safely stored in the cloud, and you can access them from any device. Google Photos uses AI and machine learning to help you organize your content and easily find photos through search, such as by location, people, or objects. You can create albums, share them with others, and even create animations, collages, and movies. Google Photos also offers features like photo editing tools, including filters and adjustment options, to help you enhance your images. Its smart organizational tools and powerful search capabilities make it an ideal solution for anyone looking to organize and preserve their memories.",
+    "size": 120.0,
+    "reviews": 400000,
+    "ratingAvg": 4.5,
+    "downloads": "5B",
+    "ratings": [
+      { "name": "1 star", "count": 25000 },
+      { "name": "2 star", "count": 30000 },
+      { "name": "3 star", "count": 100000 },
+      { "name": "4 star", "count": 200000 },
+      { "name": "5 star", "count": 350000 }
+    ]
+  },
+{
+    "image": "https://download.logo.wine/logo/Shazam_(application)/Shazam_(application)-Logo.wine.png",
+    "title": "Shazam",
+    "companyName": "Apple Inc.",
+    "id": 28,
+    "description": "Shazam allows you to identify songs playing around you and discover music you love. Instantly identify any song, wherever you are, with just a tap. Shazam listens to the music and quickly matches it to its vast database, providing you with song details like the artist, title, album, and more. Whether you’re at a concert, a cafe, or just overhearing a tune, Shazam helps you discover new music on the go. It also provides links to streaming platforms, so you can listen to the full track immediately. With its user-friendly interface and fast identification capabilities, Shazam is one of the most popular music discovery apps worldwide. It integrates with other music services, allowing you to build playlists, share your discoveries, and explore new songs based on your tastes.",
+    "size": 50.0,
+    "reviews": 600000,
+    "ratingAvg": 4.6,
+    "downloads": "500M",
+    "ratings": [
+      { "name": "1 star", "count": 5000 },
+      { "name": "2 star", "count": 7000 },
+      { "name": "3 star", "count": 20000 },
+      { "name": "4 star", "count": 150000 },
+      { "name": "5 star", "count": 400000 }
+    ]
+  },
+  {
+    "image": "https://img.freepik.com/premium-vector/vector-discord-social-media-logo_534308-21667.jpg?semt=ais_hybrid&w=740&q=80",
+    "title": "Discord",
+    "companyName": "Discord Inc.",
+    "id": 29,
+    "description": "Discord is a free voice, video, and text chat platform for communities, gamers, friends, and more. Connect with people in real-time, whether you’re chatting with a group of friends, coordinating in a game, or building a community around a shared interest. Discord allows you to create servers with channels dedicated to specific topics, making it perfect for organizing discussions and content. It also supports direct messaging, group chats, and voice and video calls, making it easy to stay in touch with others. With high-quality audio and video, screen sharing, and low-latency communication, Discord is favored by gamers and communities worldwide. It also offers bots for moderation, music, and automation, enhancing the experience for users. Whether for gaming, education, or general socializing, Discord has become one of the go-to platforms for online communication.",
+    "size": 150.0,
+    "reviews": 1500000,
+    "ratingAvg": 4.7,
+    "downloads": "500M",
+    "ratings": [
+      { "name": "1 star", "count": 15000 },
+      { "name": "2 star", "count": 20000 },
+      { "name": "3 star", "count": 50000 },
+      { "name": "4 star", "count": 400000 },
+      { "name": "5 star", "count": 1000000 }
+    ]
+  },
+{
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Dropbox_Icon.svg/1200px-Dropbox_Icon.svg.png",
+    "title": "Dropbox",
+    "companyName": "Dropbox, Inc.",
+    "id": 30,
+    "description": "Dropbox lets you store and share files securely and access them from any device. Collaborate with others in real-time, ensuring that all your important documents, photos, and videos are available whenever and wherever you need them. With Dropbox, you can organize your files into folders, share them with colleagues or family members, and even work on them simultaneously with real-time collaboration features. The app allows for easy file syncing across devices, providing seamless access from smartphones, tablets, and desktops. Dropbox's security features, including file encryption and password protection, help keep your data safe while making it easy to share large files. Whether you're a professional, student, or casual user, Dropbox makes it simple to manage, store, and access your files in the cloud.",
+    "size": 90.0,
+    "reviews": 800000,
+    "ratingAvg": 4.5,
+    "downloads": "500M",
+    "ratings": [
+      { "name": "1 star", "count": 15000 },
+      { "name": "2 star", "count": 20000 },
+      { "name": "3 star", "count": 50000 },
+      { "name": "4 star", "count": 200000 },
+      { "name": "5 star", "count": 300000 }
+    ]
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/d/db/Google_Translate_Icon.png",
+    "title": "Google Translate",
+    "companyName": "Google LLC",
+    "id": 31,
+    "description": "Google Translate is a free multilingual translation service that allows users to translate text and websites between any of over 100 languages. Whether you're traveling, learning a new language, or communicating with someone who speaks a different language, Google Translate helps break down language barriers in real time. The app supports text, voice, and even camera translations, allowing you to instantly translate signs, menus, and documents. It also includes features for translating entire websites and offline translation support, making it easy to use when there’s no internet connection. Google Translate continues to improve with machine learning and AI, offering more accurate translations and better context understanding. It’s one of the most widely used language tools in the world, helping users communicate across cultures and languages with ease.",
+    "size": 25.0,
+    "reviews": 1500000,
+    "ratingAvg": 4.7,
+    "downloads": "5B",
+    "ratings": [
+      { "name": "1 star", "count": 10000 },
+      { "name": "2 star", "count": 15000 },
+      { "name": "3 star", "count": 30000 },
+      { "name": "4 star", "count": 200000 },
+      { "name": "5 star", "count": 400000 }
+    ]
+  },
+{
+    "image": "https://static.vecteezy.com/system/resources/previews/019/136/319/non_2x/amazon-logo-amazon-icon-free-free-vector.jpg",
+    "title": "Amazon Shopping",
+    "companyName": "Amazon.com, Inc.",
+    "id": 32,
+    "description": "Shop millions of products on Amazon.com, from electronics to books, and enjoy fast and free shipping with your Amazon Prime account. Amazon Shopping offers a convenient online shopping experience with a vast selection of items, including electronics, fashion, home goods, and groceries. With Amazon Prime, customers get access to exclusive deals, free two-day shipping, same-day or one-day delivery options, and access to streaming services like Prime Video. Amazon’s user-friendly app lets you browse, purchase, track your orders, and leave reviews easily. You can also find personalized product recommendations based on your shopping history and preferences. Amazon Shopping makes it simple to shop from anywhere, anytime, and its secure checkout process ensures safe online transactions. With a global presence and millions of products available, Amazon Shopping remains one of the leading e-commerce platforms worldwide.",
+    "size": 200.0,
+    "reviews": 1200000,
+    "ratingAvg": 4.7,
+    "downloads": "5B",
+    "ratings": [
+      { "name": "1 star", "count": 25000 },
+      { "name": "2 star", "count": 35000 },
+      { "name": "3 star", "count": 80000 },
+      { "name": "4 star", "count": 400000 },
+      { "name": "5 star", "count": 1000000 }
+    ]
+ },
+{
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Microsoft_Excel_2013-2019_logo.svg/1200px-Microsoft_Excel_2013-2019_logo.svg.png",
+    "title": "Microsoft Excel",
+    "companyName": "Microsoft Corporation",
+    "id": 33,
+    "description": "Microsoft Excel is a spreadsheet application that allows you to create, edit, and organize data, analyze information, and visualize data with charts. Excel is widely used for tasks such as data entry, accounting, project management, and data analysis. It provides powerful tools for performing calculations, creating complex formulas, organizing data in tables, and automating tasks through macros. Excel also offers a wide range of built-in charting tools that allow users to visualize their data in bar charts, line charts, pie charts, and more. With its integration with other Microsoft Office tools and cloud storage via OneDrive, users can collaborate on documents in real-time, share their work with others, and access their files from multiple devices. Whether you're a student, a small business owner, or a corporate professional, Microsoft Excel remains a go-to tool for efficient data management and analysis.",
+    "size": 150.0,
+    "reviews": 1500000,
+    "ratingAvg": 4.7,
+    "downloads": "1B",
+    "ratings": [
+      { "name": "1 star", "count": 10000 },
+      { "name": "2 star", "count": 15000 },
+      { "name": "3 star", "count": 40000 },
+      { "name": "4 star", "count": 300000 },
+      { "name": "5 star", "count": 700000 }
+    ]
+},
+{
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Google_Docs_logo_%282014-2020%29.svg/1481px-Google_Docs_logo_%282014-2020%29.svg.png",
+    "title": "Google Docs",
+    "companyName": "Google LLC",
+    "id": 34,
+    "description": "Google Docs is an online word processor that allows you to create, edit, and collaborate with others in real-time. It is integrated with Google Drive, enabling you to store your documents securely in the cloud and access them from any device. Whether you’re drafting a document, working on a spreadsheet, or preparing a presentation, Google Docs offers an intuitive interface with powerful features like voice typing, spell check, and collaboration tools. Multiple users can edit the same document simultaneously, seeing changes in real-time. Additionally, with Google Docs, you can track version history, share documents with various permission settings, and work offline. This makes it an indispensable tool for individuals and teams, from casual users to businesses and educational institutions. With seamless integration with Google Drive, it’s easy to organize and search for your files.",
+    "size": 20.0,
+    "reviews": 1000000,
+    "ratingAvg": 4.6,
+    "downloads": "5B",
+    "ratings": [
+      { "name": "1 star", "count": 20000 },
+      { "name": "2 star", "count": 25000 },
+      { "name": "3 star", "count": 60000 },
+      { "name": "4 star", "count": 300000 },
+      { "name": "5 star", "count": 600000 }
+    ]
+  },
+  {
+    "image": "https://www.fennvilledl.michlibrary.org/libby/amazon-kindle-png-png-2272x1704-kindle-logo-transparent-background-2272.png/@@images/b70a544a-decb-4054-a080-47c91dbf1300.png",
+    "title": "Amazon Kindle",
+    "companyName": "Amazon.com, Inc.",
+    "id": 35,
+    "description": "The Kindle app lets you read eBooks and audiobooks across all your devices. Access millions of titles in various genres, from the latest bestsellers to classic literature, all stored conveniently in the cloud. With Kindle, users can read anytime, anywhere, whether on a tablet, smartphone, or e-reader. The app provides features like customizable text sizes, night mode, and built-in dictionary for seamless reading experiences. Users can also highlight text, make annotations, and sync their reading progress across devices. Kindle’s vast library includes eBooks, audiobooks, and even magazines, offering something for every reader. With Kindle Unlimited, you can access thousands of books and audiobooks for a monthly fee, while Amazon’s Whispersync technology lets you seamlessly switch between reading and listening to your content. Whether you're a casual reader or an avid bookworm, Kindle gives you access to an extensive collection of titles on your device of choice.",
+    "size": 60.0,
+    "reviews": 800000,
+    "ratingAvg": 4.5,
+    "downloads": "500M",
+    "ratings": [
+      { "name": "1 star", "count": 15000 },
+      { "name": "2 star", "count": 20000 },
+      { "name": "3 star", "count": 50000 },
+      { "name": "4 star", "count": 200000 },
+      { "name": "5 star", "count": 250000 }
+    ]
+  },
+{
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Skype_logo_%282019%E2%80%93present%29.svg/2030px-Skype_logo_%282019%E2%80%93present%29.svg.png",
+    "title": "Skype",
+    "companyName": "Microsoft Corporation",
+    "id": 36,
+    "description": "Skype is a telecommunications app that provides voice and video calls, messaging, and file sharing across devices. It allows users to connect with others through high-quality video calls, instant messaging, and voice calls. Skype has been a long-standing leader in online communication, offering free calls and messaging between users, and low-cost international calls to landlines and mobiles. Skype also supports file sharing, screen sharing, and group video calls, making it a popular choice for both personal and professional communication. With cross-platform availability, users can access Skype on smartphones, desktops, and even smart TVs, ensuring seamless communication across devices. It continues to evolve with new features, such as the ability to host large video conferences and use virtual backgrounds. Skype has over a billion downloads and remains one of the most recognized names in the world of online communication.",
+    "size": 120.0,
+    "reviews": 1000000,
+    "ratingAvg": 4.2,
+    "downloads": "1B",
+    "ratings": [
+        { "name": "1 star", "count": 25000 },
+        { "name": "2 star", "count": 30000 },
+        { "name": "3 star", "count": 70000 },
+        { "name": "4 star", "count": 250000 },
+        { "name": "5 star", "count": 500000 }
+    ]
+},
+
+{
+    "image": "https://static.vecteezy.com/system/resources/previews/013/948/546/non_2x/capcut-logo-on-transparent-white-background-free-vector.jpg",
+    "title": "CapCut",
+    "companyName": "Bytedance",
+    "id": 37,
+    "description": "CapCut is a free all-in-one video editing app with advanced editing features such as filters, effects, and transitions for creating stunning videos. With an easy-to-use interface, CapCut is designed for both beginner and professional video editors. It allows users to trim, cut, speed up, and reverse their footage, along with offering a wide range of creative effects like transitions, animations, and soundtracks. The app also includes features for adding text, stickers, and voiceovers, giving users total creative freedom to enhance their videos. CapCut has become one of the most popular video editing apps globally due to its rich set of features, high-quality output, and user-friendly design. Whether you're making content for social media or professional projects, CapCut provides all the necessary tools to create impressive videos. Available on both iOS and Android, it continues to receive regular updates with new features and improvements.",
+    "size": 120.0,
+    "reviews": 1000000,
+    "ratingAvg": 4.7,
+    "downloads": "500M",
+    "ratings": [
+        { "name": "1 star", "count": 15000 },
+        { "name": "2 star", "count": 20000 },
+        { "name": "3 star", "count": 50000 },
+        { "name": "4 star", "count": 300000 },
+        { "name": "5 star", "count": 600000 }
+    ]
+},
+{
+    "image": "https://i.pinimg.com/736x/a4/89/a3/a489a3d8a37d8638613e4af1945ef50d.jpg",
+    "title": "PicArt",
+    "companyName": "PicArt Inc.",
+    "id": 38,
+    "description": "PicArt is a popular photo editing app that allows you to create stunning images with filters, stickers, text, and advanced editing tools. It is known for its user-friendly interface and a wide range of options for both casual and professional photographers. The app has a variety of creative features, including customizable filters, frames, collages, and effects that allow users to easily enhance their photos. PicArt also offers an extensive library of stickers and clipart, making it a go-to tool for adding fun elements to images. With its easy-to-use interface and powerful features, PicArt has garnered millions of active users worldwide, making it a favorite choice for photo editing on mobile devices. Available on both Android and iOS, the app continues to receive updates, adding new tools and features to keep up with the latest trends in photo editing.",
+    "size": 100.0,
+    "reviews": 1500000,
+    "ratingAvg": 4.6,
+    "downloads": "500M",
+    "ratings": [
+        { "name": "1 star", "count": 20000 },
+        { "name": "2 star", "count": 25000 },
+        { "name": "3 star", "count": 70000 },
+        { "name": "4 star", "count": 300000 },
+        { "name": "5 star", "count": 600000 }
+    ]
+},
+
+{
+    "image": "https://cdn1.iconfinder.com/data/icons/google-s-logo/150/Google_Icons-09-512.png",
+    "title": "Google",
+    "companyName": "Google LLC",
+    "id": 39,
+    "description": "Google is the world's most popular search engine, offering access to search the web, maps, Gmail, YouTube, Google Drive, Google Photos, and more—all in one app. With its robust capabilities, users can perform web searches, navigate with Google Maps, communicate through Gmail, and store data on Google Drive, all from their mobile device. Google has continually evolved to offer additional services like Google Meet for video conferencing and Google Photos for cloud-based photo management. With a user-friendly interface and a broad range of functionalities, Google remains the cornerstone of daily digital activity for millions around the globe, contributing to the vast ecosystem of services that shape the online world today.",
+    "size": 50.0,
+    "reviews": 10000000,
+    "ratingAvg": 4.4,
+    "downloads": "10B",
+    "ratings": [
+      { "name": "1 star", "count": 300000 },
+      { "name": "2 star", "count": 350000 },
+      { "name": "3 star", "count": 800000 },
+      { "name": "4 star", "count": 3000000 },
+      { "name": "5 star", "count": 6000000 }
+    ]
+},
+{
+    "image": "https://www.logo.wine/a/logo/Nagad/Nagad-Logo.wine.svg",
+    "title": "Nagad - Mobile Financial Service",
+    "companyName": "Nagad Limited",
+    "id": 40,
+    "description": "Nagad is one of the leading mobile financial services in Bangladesh, revolutionizing the way people conduct financial transactions in the digital age. Established as a fully licensed mobile financial service provider by the Bangladesh Bank, Nagad offers a wide range of services that cater to both urban and rural customers. Through its easy-to-use mobile app, users can perform mobile recharging, transfer money, pay utility bills, buy tickets, and conduct online shopping, all with a few simple taps. Nagad also allows users to receive remittances from abroad, making it an essential tool for the Bangladeshi diaspora. By leveraging cutting-edge technologies, Nagad ensures fast, secure, and low-cost transactions, with an emphasis on financial inclusion. It has partnered with a number of retailers, financial institutions, and government agencies, enabling users to access a broad ecosystem of services. With a rapidly growing user base, Nagad is contributing to the digitization of financial transactions in Bangladesh, making financial services accessible to millions, especially those in remote areas.",
+    "size": 50.0,
+    "reviews": 300000,
+    "ratingAvg": 4.3,
+    "downloads": "10M",
+    "ratings": [
+      { "name": "1 star", "count": 15000 },
+      { "name": "2 star", "count": 20000 },
+      { "name": "3 star", "count": 50000 },
+      { "name": "4 star", "count": 100000 },
+      { "name": "5 star", "count": 130000 }
+    ]
+}
+
+]
