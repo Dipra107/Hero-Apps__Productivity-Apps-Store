@@ -64,6 +64,7 @@ Distributed under the MIT License. See LICENSE for more information.
 | ⚛️ **React**         | Front-end library for building dynamic UIs           |
 | 🧭 **React Router**  | Client-side routing for navigation within the app     |
 | 🎨 **Tailwind CSS**  | Utility-first CSS framework for building custom designs |
+| 🎨 **CSS#**          |  CSS used for building custom designs in some sector|
 | 💎 **DaisyUI**       | Tailwind component library for pre-designed UI elements |
 | 🔔 **React Toastify**| Toast notifications for displaying messages and alerts |
 | 💻 **Recharts**      | Data visualization library (used in analytics views)  |
