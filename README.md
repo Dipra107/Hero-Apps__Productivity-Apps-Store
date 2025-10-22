@@ -41,7 +41,7 @@ Hero Apps is designed to help you take charge of your day, stay organized, and a
 
 ### Web Version
 
-You can access Hero Apps directly via your browser at [link to website].
+You can access Hero Apps directly via your browser at [https://wondrous-platypus-2dccae.netlify.app/].
 
 ### Mobile Version
 
