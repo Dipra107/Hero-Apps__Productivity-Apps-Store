@@ -37,3 +37,23 @@ We welcome contributions from everyone! If you'd like to improve Hero Apps or su
 
 Distributed under the MIT License. See LICENSE for more information.
 
+
+
+## 🛠️ Technology ussed
+
+| Technology           | Description                                           |
+|----------------------|-------------------------------------------------------|
+| ⚛️ **React**         | Front-end library for building dynamic UIs           |
+| 🧭 **React Router**  | Client-side routing for navigation within the app     |
+| 🎨 **Tailwind CSS**  | Utility-first CSS framework for building custom designs |
+| 💎 **DaisyUI**       | Tailwind component library for pre-designed UI elements |
+| 🔔 **React Toastify**| Toast notifications for displaying messages and alerts |
+| 💻 **Recharts**      | Data visualization library (used in analytics views)  |
+| 5️⃣ **HTML5**         | HTML 5 is used for structure  |
+
+
+
+
+
+
+
